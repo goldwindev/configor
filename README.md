@@ -11,7 +11,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/jinzhu/configor"
+	"github.com/goldwindev/configor"
 )
 
 var Config = struct {
